@@ -1,4 +1,4 @@
-# BigProject — Azure Cloud Infrastructure
+# Azure Cloud Infrastructure
 
 Production-shaped, end-to-end cloud infrastructure on Microsoft Azure —
 private networking, managed Kubernetes, a time-series database, TLS
