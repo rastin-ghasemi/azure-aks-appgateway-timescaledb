@@ -1,0 +1,11 @@
+name: bigproject-deploy
+description: 'App infrastructure: network, compute, database'
+runtime:
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: azure-python
